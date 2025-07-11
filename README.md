@@ -33,4 +33,4 @@ Running the Example Code
 1.	Set Path: Update the file path in the first section of the example code to match your local directory.
 2.	Execute Code: Run the rest of the code to replicate the results and generate Figure 3.
 
-
+The rest of the script for “Time-Varying Parameters as Ridge Regressions” are available [here](https://github.com/hugocout/Replication-codes-for-Time-Varying-Parameters-as-Ridge-Regressions).
